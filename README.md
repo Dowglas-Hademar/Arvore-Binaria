@@ -39,4 +39,6 @@ Enquanto em uma lista comum você pode precisar olhar todos os itens ($O(n)$) pa
 - **Hierarquia de Dados:** Diferença fundamental entre estruturas lineares (Listas) e não lineares (Árvores).
 
 ---
+
+![Estrutura da Árvore Binária](media/arvore_estrutura.png)
 Desenvolvido por [Dowglas Hademar](https://github.com/Dowglas-Hademar)
